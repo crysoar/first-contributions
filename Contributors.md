@@ -4751,6 +4751,7 @@
 - [kiwan97](https://github.com/kiwan97)
 - [TobiasTorres]
 - [Clubtour]
+- Jeff Winger
 - [u10k](https://github.com/u10k)
 - [Kavish-Agnihotri](https://github.com/Kavish-Agnihotri)
 - [MananKGarg](https://github.com/MananKGarg)
@@ -4762,3 +4763,4 @@
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [schmelto](https://github.com/schmelto)
+
